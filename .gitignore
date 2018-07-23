@@ -1,6 +1,5 @@
 *.iml
 *.iml
-*.iml
 .gradle
 .gradle
 /local.properties
